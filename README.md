@@ -1,6 +1,9 @@
 # portfolio
 
-A new Flutter project.
+A Flutter project about Portfolio App to design your UI.
+
+<img src="https://github.com/git-aditya-star/Portfolio-App/blob/master/images/Screenshot_1599920791.png" width="400">
+
 
 ## Getting Started
 
